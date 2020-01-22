@@ -1,0 +1,12 @@
+{
+	"name": "GetCompanyInfo",
+	"description": "GetCompanyInfo",
+	"version": "0.0.1",
+	"vendor": "sapvendor",
+	"multiple-version": "false",
+	"ui-ext": [
+		{
+			"folder": "ui-ext-fbt"
+		}
+	]
+}
